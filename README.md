@@ -1,6 +1,6 @@
 # VARCHAT v1.0.0
 
-![VARCHAT](https://your-image-link.com/banner.png) <!-- Replace with an actual image link if available -->
+<!-- ![VARCHAT](https://your-image-link.com/banner.png) <!-- Replace with an actual image link if available -->
 
 ## 🚀 Live Demo
 🔗 **[VARCHAT Live Project](https://varchat-c9yf.onrender.com)**
@@ -23,7 +23,7 @@ VARCHAT is a modern real-time chat application built using the MERN stack, integ
 - **State Management:** Zustand
 - **Authentication:** JWT
 
-## 📸 Screenshots
+<!--## 📸 Screenshots
 <!-- Add relevant screenshots of your app here -->
 
 ## 🚀 Deployment
