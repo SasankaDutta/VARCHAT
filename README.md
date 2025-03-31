@@ -25,11 +25,11 @@ VARCHAT is a modern real-time chat application built using the MERN stack, integ
 
 ## 🚀 Deployment
 The project is deployed on **Render**. 
-🔗 **[VARCHAT Live Project](https://varchat-c9yf.onrender.com)**
+- 🔗 **[VARCHAT Live Project](https://varchat-c9yf.onrender.com)**
 
-For testing purpose, use:
-**email: demo@mail.com
-**pass: 123456
+For testing purpose, use:  
+**email:** demo&#8203;@mail.com  
+**pass:** 123456
 
 
 ---
