@@ -2,9 +2,6 @@
 
 <!-- ![VARCHAT](https://your-image-link.com/banner.png) <!-- Replace with an actual image link if available -->
 
-## 🚀 Live Demo
-🔗 **[VARCHAT Live Project](https://varchat-c9yf.onrender.com)**
-
 ## 📌 Overview
 VARCHAT is a modern real-time chat application built using the MERN stack, integrating Socket.io for seamless communication. The app features secure authentication, state management, and responsive UI components for an intuitive messaging experience.
 
@@ -28,6 +25,11 @@ VARCHAT is a modern real-time chat application built using the MERN stack, integ
 
 ## 🚀 Deployment
 The project is deployed on **Render**. 
+🔗 **[VARCHAT Live Project](https://varchat-c9yf.onrender.com)**
+
+For testing purpose, use:
+**email: demo@mail.com
+**pass: 123456
 
 
 ---
